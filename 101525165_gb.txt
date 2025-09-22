@@ -1,0 +1,19 @@
+Name: Ibrahim Yondem
+Student ID: 101525165
+GitHub Username: ibrahimyondem
+Role: Group Leader
+
+Summary of Contributions:
+- Set up GitHub repository
+- Added collaborators
+- Created branching strategy
+- Implemented CI workflow (.github/workflows/ci.yml)
+- Guided team on Git usage
+
+Reflection:
+This assignment helped me understand CI/CD pipelines, GitHub Actions, and collaborative workflows...
+
+Information about George Brown College 
+George Brown College is a public college located in Toronto.
+George Brown (1818-1880) was a 19th-century Scottish-born Canadian politician, newspaper publisher (he founded The Globe, precursor to The Globe and Mail) and was one of the Fathers of Confederation. An essential figure in the formation of Canada, Brown was a strong believer in public education.
+Known for its career-focused, hands-on education in areas like business, culinary arts, design, health sciences, and construction technologies.
