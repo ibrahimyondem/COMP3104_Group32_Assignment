@@ -1,0 +1,6 @@
+DevOps ;
+
+DevOps is a culture of cross-team collaboration and measured improvement in the software delivery process.
+In DevOps, a team works together to remove silos, improve collaboration, and create shared ownership over the continuous improvement of the software they build and support.
+DevOps expects you to create a new culture and implement new technology to help automate and highlight the important aspects of the application lifecycle. It covers a lot of areas and affects way more than engineers.
+DevOps gives priority to quickly recovering with a combination of improved detection and recovery automation.
