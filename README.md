@@ -6,7 +6,7 @@
 - **Member 2:** Nguyen Minh Triet Luu (101542519) - [GitHub](https://github.com/fel1x210)
 - **Member 3:** Gozde Baran (101515982) - [GitHub](https://github.com/GozdeEBaran)
 - **Member 4:** Baris Isci (101531238) - [GitHub](https://github.com/barisisci)
-- **Member 5:** Danil Orlov (1027890) - [GitHub](https://github.com/DanielOrlov)
+- **Member 5:** Danil Orlov (101500729) - [GitHub](https://github.com/DanielOrlov)
 
 ## Project Description
 
