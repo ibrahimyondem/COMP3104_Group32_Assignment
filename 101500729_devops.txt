@@ -3,3 +3,5 @@ Our section is taught by Profession Pritesh Patel, and our lectures and labs hap
 
 In this course, we explore best practices and learn to use the tools and technologies required to implement DevOps.
 We learn the procedures, protocols, and best practices that a DevOps engineer brings to a workplace environment to increase productivity.
+
+So far, the most useful skills that I learned in this course was setting up and using Node.js as runtime for my projects, and updating my GitHub repository with custom Actions.
