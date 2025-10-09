@@ -1,0 +1,21 @@
+
+Gozde Baran - 101515982
+
+DevOps
+
+DevOps is not just a set of tools or processes—it is a culture that emphasizes cross-team 
+collaboration, shared ownership, and continuous improvement throughout the software delivery process.
+In a DevOps environment, teams work together to break down silos, improve communication, 
+and take collective responsibility for building, deploying, and supporting software.
+
+The goal of DevOps is to foster a culture of innovation while implementing technologies 
+that automate and streamline critical aspects of the application lifecycle. 
+It impacts not only engineers but also product managers, operations, and even business stakeholders, 
+making it an organization-wide transformation.
+
+A key principle of DevOps is resilience: 
+the ability to detect issues quickly and recover rapidly through automation, monitoring, 
+and continuous feedback. By prioritizing fast recovery and constant learning, 
+DevOps enables organizations to deliver software that is more reliable, efficient, 
+and aligned with user needs.
+
