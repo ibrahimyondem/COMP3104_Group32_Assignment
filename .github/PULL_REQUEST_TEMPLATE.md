@@ -12,5 +12,5 @@ Please include a summary of the changes and the related issue.
 - [x] I have commented my code, particularly in hard-to-understand areas  
 - [x] I have made corresponding changes to the documentation  
 - [x] My changes generate no new warnings  
-- [ ] I have added tests that prove my fix is effective or that my feature works  
-- [ ] New and existing unit tests pass locally with my changes
+- [x] I have added tests that prove my fix is effective or that my feature works  
+- [x] New and existing unit tests pass locally with my changes
