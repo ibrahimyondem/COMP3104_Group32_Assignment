@@ -1,0 +1,4 @@
+COMP 3104 – DevOps is a course designed to introduce students to the concepts and practices of integrating software development and IT operations. 
+The course covers tools like Git, GitHub, Docker, Jenkins, and CI/CD pipelines. 
+Students learn how to automate builds, testing, and deployment processes to improve efficiency and collaboration between development and operations teams. 
+By the end of the course, students gain hands-on experience with modern DevOps workflows used in professional software environments.
