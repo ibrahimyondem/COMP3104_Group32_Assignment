@@ -1,0 +1,10 @@
+Name: Ibrahim Yondem
+Student ID: 101525165
+GitHub Username: ibrahimyondem
+Role: Group Leader
+
+DevOps connects development, testing, deployment, and monitoring into a seamless workflow.
+Early detection of bugs and performance issues improves software reliability.
+CI/CD tools streamline code integration, testing, and deployment.
+Automated rollbacks and monitoring minimize downtime and failures.
+Encourages cross-functional teamwork between developers, testers, and operations.
