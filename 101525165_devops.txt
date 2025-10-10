@@ -1,0 +1,9 @@
+Name: Ibrahim Yondem
+Student ID: 101525165
+GitHub Username: ibrahimyondem
+Role: Group Leader
+
+COMP3104 – DevOps is a core course offered in the fifth semester of the third year within the T177 – Computer Programming and Analysis program at George Brown College.
+Throughout this course, we dive into the principles and practices that define modern DevOps. 
+We gain hands-on experience with the tools, workflows, and automation strategies that help streamline development and operations in real-world environments.
+
